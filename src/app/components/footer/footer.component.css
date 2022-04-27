@@ -1,0 +1,12 @@
+.row {
+    background-color:blueviolet;
+}
+footer
+ {
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    display: flex;
+    flex-direction: row;
+    text-align:justify;
+    box-align: 2px -2px 5px #999 ;
+}
